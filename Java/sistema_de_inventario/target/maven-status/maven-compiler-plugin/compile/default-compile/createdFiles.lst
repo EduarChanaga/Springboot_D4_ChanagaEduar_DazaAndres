@@ -1,0 +1,6 @@
+com\example\controller\ProductoController.class
+com\example\controller\ProductoApiController.class
+com\example\Main.class
+com\example\model\Producto.class
+com\example\repository\ProductoRepositorio.class
+com\example\service\ProductoServicio.class
