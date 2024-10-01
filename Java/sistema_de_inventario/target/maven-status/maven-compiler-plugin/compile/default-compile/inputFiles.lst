@@ -1,6 +1,11 @@
+C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\controller\AuthController.java
+C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\controller\JwtAuthController.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\controller\ProductoApiController.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\controller\ProductoController.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\Main.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\model\Producto.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\repository\ProductoRepositorio.java
+C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\security\JwtRequestFilter.java
+C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\security\SecurityConfig.java
 C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\service\ProductoServicio.java
+C:\Users\DZ\Springboot_D4_ChanagaEduar_DazaAndres\Java\sistema_de_inventario\src\main\java\com\example\WebConfig.java

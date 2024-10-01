@@ -1,6 +1,12 @@
+com\example\controller\AuthController.class
 com\example\controller\ProductoController.class
-com\example\controller\ProductoApiController.class
 com\example\Main.class
+com\example\controller\JwtAuthController.class
 com\example\model\Producto.class
-com\example\repository\ProductoRepositorio.class
+com\example\security\SecurityConfig.class
 com\example\service\ProductoServicio.class
+com\example\controller\ProductoApiController.class
+com\example\security\JwtRequestFilter.class
+com\example\repository\ProductoRepositorio.class
+com\example\WebConfig.class
+com\example\controller\AuthRequest.class
